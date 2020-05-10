@@ -155,3 +155,6 @@ The design is a multi-function real time monitor system which integrates functio
 - 感谢电气与电子工程学院16级通信1班的同学，他们不少人对我予以的高度的信任，提出了模板的部分意见，还提供了少量的资金支持，让有我动力的继续干下去。
 
 - 感谢16计科3班的同学，还有天软科技工作室的小伙伴们给予我的支持和关心。
+
+## License
+遵循[BSD 3-Clause License](./LICENSE) 协议
